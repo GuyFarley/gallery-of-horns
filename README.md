@@ -1,3 +1,11 @@
+# Gallery of Horns
+
+This project involves creating an app that displays images and information about various horned creatures. Eventually, it will allow the user to filter the images by number of horns and to choose their favorite image.
+
+# Lab 01 - Creating component structure with React
+
+This went much smoother than I thought it would. I somehow guessed correctly on how to render the image by referencing specific props, but it makes sense to do it this way.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
