@@ -28,9 +28,9 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 2:15pm
 
-Finish time:
+Finish time: 2:45pm
 
-Actual time needed to complete:
+Actual time needed to complete: 30 mins
 
 ## Feature #3: Bootstrap
 
@@ -38,8 +38,8 @@ Number and name of feature: Feature #3: Bootstrap
 
 Estimate of time needed to complete: 45 mins
 
-Start time:
+Start time: 2:45pm
 
-Finish time:
+Finish time: 5:10pm
 
-Actual time needed to complete:
+Actual time needed to complete: 2.5 hours. Went down a rabbit hole trying to format the page layout with React-Bootstrap, then realized all I needed to do was format the articles themselves.
