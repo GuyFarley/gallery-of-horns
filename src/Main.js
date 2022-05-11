@@ -1,6 +1,5 @@
 import React from 'react';
 import HornedBeast from './HornedBeast';
-import data from './data.json';
 import './Main.css';
 
 class Main extends React.Component {
@@ -8,7 +7,7 @@ class Main extends React.Component {
   render() {
 
     let beasts = [];
-    data.forEach((beast) => {
+    this.props.data.forEach((beast) => {
       beasts.push(
         <HornedBeast
           id={beast._id}
@@ -17,6 +16,7 @@ class Main extends React.Component {
           description={beast.description}
           keyword={beast.keyword}
           horns={beast.horns}
+          openModalHandler={this.props.openModalHandler}
         />)
     });
 

@@ -1,12 +1,11 @@
 main {
+  background-color: cadetblue;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
-article p {
-  font-size: 12px;
-  margin: auto;
-  display: inline-block;
-  margin-bottom: .5rem;
+.card {
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
