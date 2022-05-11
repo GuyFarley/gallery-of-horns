@@ -1,0 +1,9 @@
+footer {
+  background-color: cadetblue;
+  height: 100px;
+}
+
+footer p {
+  padding-top: 60px;
+  padding-left: 20px;
+}

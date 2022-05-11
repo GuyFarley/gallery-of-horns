@@ -43,3 +43,15 @@ Start time: 2:45pm
 Finish time: 5:10pm
 
 Actual time needed to complete: 2.5 hours. Went down a rabbit hole trying to format the page layout with React-Bootstrap, then realized all I needed to do was format the articles themselves.
+
+## Feature #4: Modal
+
+Number and name of feature: Feature #4: Modal
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 12:40pm
+
+Finish time: 2:15pm
+
+Actual time needed to complete: About 1.5 hours
