@@ -45,3 +45,11 @@
 .modal-footer {
   justify-content: center;
 }
+
+form {
+  background-color: cadetblue;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

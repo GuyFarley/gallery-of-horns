@@ -52,6 +52,18 @@ Estimate of time needed to complete: 2 hours
 
 Start time: 12:40pm
 
-Finish time: 2:15pm
+Finish time: 2:20pm (Thursday)
 
-Actual time needed to complete: About 1.5 hours
+Actual time needed to complete: 4 or 5 hours total. I thought I had it complete withing 1.5 hours, but that was with the Modal existing on the App component. Realizing I needed to have a separate SelectedBeast component, it then took me longer to figure out how to pass the data correctly between components to get the Modal to render again.
+
+## Feature #5: Form
+
+Number and name of feature: Feature #5: Form
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 2:20pm
+
+Finish time: 3:50pm
+
+Actual time needed to complete: 1.5 hours
