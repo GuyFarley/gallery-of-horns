@@ -10,7 +10,7 @@ class Main extends React.Component {
     this.props.data.forEach((beast) => {
       beasts.push(
         <HornedBeast
-          id={beast._id}
+          key={beast._id}
           image_url={beast.image_url}
           title={beast.title}
           description={beast.description}
